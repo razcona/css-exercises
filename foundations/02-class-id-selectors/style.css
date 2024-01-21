@@ -1,0 +1,18 @@
+.default-text {
+    background-color: #ffb3b3;
+   font-family: "Verdana", "DejaVu Sans", "sans-serif";  
+}
+
+.bigger-text {
+    font-size: 24px;
+}
+
+#first {
+    color: #0000ff;
+   font-size: 36px;
+   }
+
+#second {
+    background-color: #80ff80;
+    font-weight: bold;
+}
